@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Fork &amp; Spoon</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="no_categories_found">No categories found!</string>
+    <string name="no_connection">No connection, please retry later</string>
+    <string name="title_activity_home">Near Restaurants</string>
+    <string name="error_obtaining_position">An error ocurred obtaining your location, try again later</string>
+    <string name="global_map_fail">You device does not support map</string>
+    <string name="retry">retry</string>
+    <string name="no_restaurants_found">No restaurants found</string>
+    <string name="no_near_restaurants_found">No near restaurants found</string>
+    <string name="no_favorite_restaurants_found">No favorite places stored yet</string>
+    <string name="restaurant_detail">Details</string>
+    <string name="restaurant_detail_info">Information</string>
+    <string name="restaurant_address">Address</string>
+    <string name="runtime_permissions">Please enable ALL permissions from app settings.</string>
+    <string name="unit_meter">m</string>
+    <string name="unit_kilometer">km</string>
+    <string name="unit_mile">mi</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+</resources>

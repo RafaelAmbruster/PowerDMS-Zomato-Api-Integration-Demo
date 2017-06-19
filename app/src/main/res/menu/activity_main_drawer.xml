@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_nearby"
+            android:icon="@drawable/ic_menu_near"
+            android:title="NEARBY PLACES" />
+
+        <item
+            android:id="@+id/nav_category"
+            android:icon="@drawable/ic_menu_action_custom"
+            android:title="CATEGORY" />
+
+        <item
+            android:id="@+id/nav_cuisine"
+            android:icon="@drawable/ic_menu_action_cuisine"
+            android:title="CUISINES" />
+
+        <item
+            android:id="@+id/nav_favorites"
+            android:icon="@drawable/ic_menu_action_favorite"
+            android:title="FAVORITES PLACES" />
+
+    </group>
+
+</menu>
